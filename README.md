@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pastrosd
 - 👀 I’m interested in solving finance and business problems with data.
-- 🌱 I’m currently learning more advanced techniques in building ML models in R.
+- 🌱 I’m currently learning more about advanced techniques in building ML models in R and creating R packages.
 - 💞️ I’m looking to collaborate on equity trading models or interesting Kaggle challenges. 
 - 📫 How to reach me... You can reach me here! 
 <!---
